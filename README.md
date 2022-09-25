@@ -10,7 +10,7 @@ scDML (Batch Alignment of **s**ingle **c**ell transcriptomics data using **D**ee
 
 ## Merge rule
 
-scDML presents a novel merge rule to reassign cluster labels, which is important for scDML. Below figures illustrates that how to merge clusters hierarchically
+scDML presents a novel merge rule to reassign cluster labels, which is important for scDML. The following figures illustrate how to merge clusters hierarchically.
 ![](./images/init_cluster.png)
 
 
@@ -20,14 +20,14 @@ scDML presents a novel merge rule to reassign cluster labels, which is important
  
 The following notebooks show you how to run scDML  
 
-1. [tutorial1](./tutorial/tutorial1.ipynb) gives a detailed description in each step of scDML  
+1. [tutorial1](./tutorial/tutorial1.ipynb) gives a detailed description in each step of scDML.  
 2. [tutorial2](./tutorial/tutorial2.ipynb) provides a simple running example. 
 
-## Intallation
+## Installation
 
 ### Step1 
 
-1. Install [Anaconda](https://www.anaconda.com/products/individual) if you do not have it.
+1. Install [Anaconda](https://www.anaconda.com/products/individual) if you do not have one.
 2. Create a conda environment with python, and then activate it as follows in terminal.
 
 ```bash
